@@ -1,0 +1,1 @@
+Pasta para armazenar temporariamente os arquivos de download antes de ser transferidos para o bucket no S3
