@@ -33,7 +33,7 @@
     "node-command-line": "^1.0.2",
     "node-input-validator": "^4.2.0",
     "node-static": "^0.7.11",
-    "nodemailer": "^6.4.5",
+    "nodemailer": "^6.4.16",
     "pg": "^7.17.1",
     "request-ip": "^2.1.3"
   },
